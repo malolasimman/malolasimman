@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MalolaSimman Srinivasan Kannan
 - 👀 I’m interested in Embedded System
-- 🌱 I’m currently Pursuing Masters in Electrical and Computer Engineering with specialization as Embedded system
-- 💞️ I’m looking to collaborate in the field of firmware and hardware engineering
+- 🌱 Masters in Electrical and Computer Engineering with specialization as Embedded system
+- 💞️ I’m looking to collaborate in the field of Embedded software/firmware
 - 📫 How to reach me ...mail to malolasimman7101999@gmail.com
 
 <!---
